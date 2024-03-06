@@ -1,0 +1,11 @@
+.woo,
+.wee{
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+.woo{
+    background-color: black; color: white; font-weight: bold;
+}
+.wee{
+    background-color: yellow;
+}
